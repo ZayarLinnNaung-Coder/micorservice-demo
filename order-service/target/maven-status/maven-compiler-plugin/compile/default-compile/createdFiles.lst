@@ -1,0 +1,14 @@
+com\zshopping\orderservice\model\OrderItem.class
+com\zshopping\orderservice\model\Order.class
+com\zshopping\orderservice\repository\OrderRepository.class
+com\zshopping\orderservice\dto\OrderRequest.class
+com\zshopping\orderservice\model\Order$OrderBuilder.class
+com\zshopping\orderservice\dto\OrderRequest$OrderRequestBuilder.class
+com\zshopping\orderservice\OrderServiceApplication.class
+com\zshopping\orderservice\service\impl\OrderService.class
+com\zshopping\orderservice\converter\OrderItemConverter.class
+com\zshopping\orderservice\dto\OrderItemDto$OrderItemDtoBuilder.class
+com\zshopping\orderservice\model\OrderItem$OrderItemBuilder.class
+com\zshopping\orderservice\service\IOrderService.class
+com\zshopping\orderservice\controller\OrderController.class
+com\zshopping\orderservice\dto\OrderItemDto.class

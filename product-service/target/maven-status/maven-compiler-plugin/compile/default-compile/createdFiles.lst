@@ -1,0 +1,13 @@
+com\zshopping\productservice\converter\ProductRequestConverter.class
+com\zshopping\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\zshopping\productservice\model\Product$ProductBuilder.class
+com\zshopping\productservice\ProductServiceApplication.class
+com\zshopping\productservice\service\impl\ProductService.class
+com\zshopping\productservice\dto\ProductRequest.class
+com\zshopping\productservice\dto\ProductResponse.class
+com\zshopping\productservice\repository\ProductRepository.class
+com\zshopping\productservice\model\Product.class
+com\zshopping\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\zshopping\productservice\service\IProductService.class
+com\zshopping\productservice\controller\ProductController.class
+com\zshopping\productservice\converter\ProductResponseConverter.class

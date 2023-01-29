@@ -1,0 +1,9 @@
+com\zshopping\inventoryservice\InventoryServiceApplication.class
+com\zshopping\inventoryservice\model\Inventory$InventoryBuilder.class
+com\zshopping\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\zshopping\inventoryservice\service\IInventoryService.class
+com\zshopping\inventoryservice\controller\InventoryController.class
+com\zshopping\inventoryservice\dto\InventoryResponse.class
+com\zshopping\inventoryservice\service\impl\InventoryService.class
+com\zshopping\inventoryservice\model\Inventory.class
+com\zshopping\inventoryservice\repository\InventoryRepository.class

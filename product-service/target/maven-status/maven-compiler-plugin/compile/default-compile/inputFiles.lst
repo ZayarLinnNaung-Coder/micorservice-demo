@@ -1,0 +1,10 @@
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\dto\ProductRequest.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\ProductServiceApplication.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\service\impl\ProductService.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\repository\ProductRepository.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\converter\ProductRequestConverter.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\model\Product.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\dto\ProductResponse.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\controller\ProductController.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\converter\ProductResponseConverter.java
+D:\Projects\Learning\programming_techie\microservice-demo\product-service\src\main\java\com\zshopping\productservice\service\IProductService.java

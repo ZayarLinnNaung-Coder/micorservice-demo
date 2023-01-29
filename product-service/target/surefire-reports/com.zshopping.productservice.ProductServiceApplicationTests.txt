@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.zshopping.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.993 s - in com.zshopping.productservice.ProductServiceApplicationTests
